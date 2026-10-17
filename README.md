@@ -1,24 +1,53 @@
-# C-Programming-Student-Marksheet
+Student Marksheet System in C
+
 Overview
-This features a simple C program that takes a student's name, roll number, and marks in three subjects as input. It calculates the average marks and assigns a grade based on the student's performance.
+
+A simple C program that takes a student's name, roll number, and marks in three subjects as input. It calculates the average marks and assigns a grade based on the student's performance.
 
 Features
-1)Accepts student details as input.
-2)Takes marks for three subjects.
-3)Calculates the average marks.
-4)Assigns a grade according to the average.
-5)Displays the student's marksheet.
+
+Accepts student details as input
+
+Takes marks for three subjects
+
+Calculates the average marks
+
+Assigns a grade based on the average
+
+Displays the student's marksheet
 
 Concepts Used
-1)Variables and data types.
-2)Input and output using scanf() and printf().
-3)Conditional statements (if, else if, else).
-4)Arithmetic operations.
-5)Character arrays and strings.
+
+Variables and data types
+
+Input and output using scanf() and printf()
+
+Conditional statements (if, else if, else)
+
+Arithmetic operations
+
+Character arrays and strings
 
 How It Works
-1)Enter the student's name and roll number.
-2)Enter marks for three subjects.
-3)The program calculates the average.
-4)A grade is assigned based on the average.
-5)The marksheet is displayed.
+
+The user enters the student's name and roll number.
+
+The user enters marks for three subjects.
+
+The program calculates the average marks.
+
+A grade is assigned according to the conditions in the code.
+
+The marksheet is displayed.
+
+Language
+
+C
+
+How to Run
+
+Compile marksheet.c using a C compiler, then run the compiled program.
+
+Learning Purpose
+
+This project demonstrates basic C programming concepts through a student marksheet application.

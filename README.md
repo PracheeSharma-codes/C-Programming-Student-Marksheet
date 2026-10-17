@@ -39,15 +39,3 @@ The program calculates the average marks.
 A grade is assigned according to the conditions in the code.
 
 The marksheet is displayed.
-
-Language
-
-C
-
-How to Run
-
-Compile marksheet.c using a C compiler, then run the compiled program.
-
-Learning Purpose
-
-This project demonstrates basic C programming concepts through a student marksheet application.
